@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+
+}
+
+.container_1 {
+    
+}
+
+.container_1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 42px;
+    line-height: 49px;
+    color: #041F8F;
+}
+
+.pItem1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #84888C;
+}
+
+.pItem2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #0285C9;
+}
+
+.container_2 {
+
+}
+
+.container_2 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 40px;
+    color: #303D63;
+}
+
+.container_3 {
+    background-color: #0285C9;
+    color: white;
+}
+
+.container_3 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.container_3 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.container_4 {
+    background-color: #F6F9FC;
+    
+}
+
+.container_4 h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #303D63;
+}
+
+.container_4 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #84888C;
+}
