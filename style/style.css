@@ -182,13 +182,9 @@ body {
 }
 
 .container_8 {
-    background-image: url('exports/bgImg.png');
     color: #ffffff;
     background-size: cover;
     background-position: center;
-    border-radius: 10px;
-    height: 100%;
-    width: 100%;
 }
 
 .container_8 h2 {
